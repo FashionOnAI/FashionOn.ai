@@ -11,6 +11,7 @@
 </br>
 </br>
 </br>
+
 ## Virtual Try-on with Arbitrary Poses
 
 ### Complicated background cases 
@@ -30,7 +31,9 @@
 </br>
 </br>
 </br>
+
 ### Complicated clothing cases 
+
 ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/multi-pose%20try-on%20results/163.gif)
 
 ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/multi-pose%20try-on%20results/4355.gif)
