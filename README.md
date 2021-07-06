@@ -1,4 +1,4 @@
-# :rocket:科技部未來科技獎申請 - 陽明交通大學虛擬試穿技術
+# :trophy:科技部未來科技獎申請 - 陽明交通大學虛擬試穿技術
 
 * ## High-resolution Virtual Try-on in one pose (Resolution: 640x480)
 
