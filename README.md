@@ -3,9 +3,9 @@
 * ## High-resolution Virtual Try-on in one pose (Resolution: 640x480)
 
 ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result1.jpg)
-![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result2.jpg)
-![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result3.jpg)
-![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result4.jpg)
+![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result2.jpg)
+![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result3.jpg)
+![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result4.jpg)
 
 </br>
 </br>
@@ -18,15 +18,15 @@
 
     * ### Complicated background cases 
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/20006.jpg)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/20006.jpg)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/20018.jpg)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/20018.jpg)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/20024.jpg)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/20024.jpg)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/20025.jpg)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/20025.jpg)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/20027.jpg)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/20027.jpg)
 
     </br>
     </br>
@@ -37,17 +37,17 @@
 
     * ### Complicated clothing cases 
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/163.gif)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/163.gif)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/4355.gif)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/4355.gif)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/126.gif)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/126.gif)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/4849.gif)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/4849.gif)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/154.gif)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/154.gif)
 
-    ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/6675.gif)
+    ![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/Multi-pose%20try-on%20results/6675.gif)
 
     ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/Multi-pose%20try-on%20results/174.gif)
 
