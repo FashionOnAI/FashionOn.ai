@@ -1,4 +1,4 @@
-# :trophy:FashionOn.ai Demo
+# :dancer:FashionOn.ai Demo
 
 * ## High-resolution Virtual Try-on in one pose (Resolution: 640x480)
 
