@@ -2,7 +2,7 @@
 
 * ## High-resolution Virtual Try-on in one pose (Resolution: 640x480)
 
-![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result1.jpg)
+![image](https://github.com/FashionOnAI/FashionOn.ai/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result1.jpg)
 ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result2.jpg)
 ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result3.jpg)
 ![image](https://github.com/MOST-FutureTech-NYCU-Tryon/MOST-FutureTech/blob/main/High-resolution%20single-pose%20try-on%20results/HR_result4.jpg)
