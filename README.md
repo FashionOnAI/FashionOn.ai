@@ -1,4 +1,4 @@
-# :trophy:科技部未來科技獎 - 陽明交通大學虛擬試穿技術
+# :trophy:FashionOn.ai Demo
 
 * ## High-resolution Virtual Try-on in one pose (Resolution: 640x480)
 
